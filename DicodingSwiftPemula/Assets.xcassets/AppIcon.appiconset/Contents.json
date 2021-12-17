@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "pokeball-40.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "20x20"
@@ -11,6 +12,7 @@
       "size" : "20x20"
     },
     {
+      "filename" : "pokeball-58.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "29x29"
@@ -21,6 +23,7 @@
       "size" : "29x29"
     },
     {
+      "filename" : "pokeball-80.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "40x40"
@@ -31,6 +34,7 @@
       "size" : "40x40"
     },
     {
+      "filename" : "pokeball-120.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
@@ -41,6 +45,7 @@
       "size" : "60x60"
     },
     {
+      "filename" : "pokeball-20.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "20x20"
@@ -51,6 +56,7 @@
       "size" : "20x20"
     },
     {
+      "filename" : "pokeball-29.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "29x29"
@@ -61,6 +67,7 @@
       "size" : "29x29"
     },
     {
+      "filename" : "pokeball-41.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "40x40"
@@ -71,6 +78,7 @@
       "size" : "40x40"
     },
     {
+      "filename" : "pokeball-76.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "76x76"
@@ -81,11 +89,13 @@
       "size" : "76x76"
     },
     {
+      "filename" : "pokeball-167.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "83.5x83.5"
     },
     {
+      "filename" : "pokeball-1024.png",
       "idiom" : "ios-marketing",
       "scale" : "1x",
       "size" : "1024x1024"

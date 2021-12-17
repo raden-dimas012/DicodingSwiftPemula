@@ -11,7 +11,7 @@ import SwiftUI
 struct DicodingSwiftPemulaApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MyNavigationView()
         }
     }
 }
